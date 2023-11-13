@@ -1,2 +1,2 @@
 # seznamy
-seznam(.cz)
+odkaz: https://jakubkoci1.github.io/seznamy/
